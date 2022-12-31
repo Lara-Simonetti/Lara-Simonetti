@@ -5,7 +5,7 @@ Nice to e-meet you! I am a current Master's of Software Engineering student. Thi
 ### [Asana Workflow Assigner](https://github.com/Lara-Simonetti/asana-workflow-assigner)
 This script automates assigning subtasks in Asana to users based on their roles!
 ### [Simple Visual Regression Testing Report](https://github.com/Lara-Simonetti/simple-vrt-report)
-This script generates a simple HTML visual regression testing report using the [ResembleJS](https://github.com/rsmbl/Resemble.js) library to compare images.
+This script generates a simple visual regression testing report using the [ResembleJS](https://github.com/rsmbl/Resemble.js) library to compare images.
 
 ## 💻 Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
