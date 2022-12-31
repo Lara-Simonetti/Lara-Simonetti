@@ -1,5 +1,5 @@
 # ¡Hola mundo! I'm Lara
-Nice to e-meet you! I am a current Master's of Software Engineering student. This where I do computer magic. ✨
+Nice to e-meet you! I'm a current Master's of Software Engineering student at the Universidad de los Andes. This where I do computer magic. ✨
 
 ## 🌱 Projects Overview
 ### [Asana Workflow Assigner](https://github.com/Lara-Simonetti/asana-workflow-assigner)
