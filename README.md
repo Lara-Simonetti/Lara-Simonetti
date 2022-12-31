@@ -1,4 +1,4 @@
-# ¡Hola mundo!
+# ¡Hola mundo! I'm Lara
 Nice to e-meet you! I am a current Master's of Software Engineering student. This where I do computer magic. ✨
 
 ## 🌱 Projects Overview
