@@ -2,6 +2,8 @@
 Nice to e-meet you! I'm a current Master's of Software Engineering student at the Universidad de los Andes. This where I do computer magic. ✨
 
 ## 🌱 Projects Overview
+### [Argentine Museums](https://github.com/Lara-Simonetti/argentine-museums)
+This is a Single Page Application developed in Angular! It sources museum information from a [public API provided by the Argentine government](https://www.cultura.gob.ar/api/v2.0/) and lets the user navigate across museums.
 ### [Asana Workflow Assigner](https://github.com/Lara-Simonetti/asana-workflow-assigner)
 This script automates assigning subtasks in Asana to users based on their roles!
 ### [Simple Visual Regression Testing Report](https://github.com/Lara-Simonetti/simple-vrt-report)
