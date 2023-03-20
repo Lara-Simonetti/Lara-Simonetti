@@ -21,6 +21,6 @@ _En Forma_ is an MVP developed with Angular and Flask for fitness instructors to
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-553C7B?style=flat-square&logo=bootstrap&&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+![Flask](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=Flask&logoColor=black)
 
 
